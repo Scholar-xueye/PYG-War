@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [10/Aug/2018:12:52:12 +0800] "GET /brand/findAll HTTP/1.1" 200 908 http-bio-8081-exec-1 1754
+0:0:0:0:0:0:0:1 - - [10/Aug/2018:12:52:12 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8081-exec-3 8
